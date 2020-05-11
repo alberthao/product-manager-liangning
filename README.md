@@ -4,3 +4,5 @@
 让我们优化这个世界，一切都在你我手中变得更美好，交付我们的价值并获得回报。  
 
 从2020年5月10日起，我打算再听一遍梁宁的《产品思维30讲》，输出读书笔记。  
+
+第一讲 https://github.com/alberthao/product-manager-liangning/blob/master/chapter01-preface.md
